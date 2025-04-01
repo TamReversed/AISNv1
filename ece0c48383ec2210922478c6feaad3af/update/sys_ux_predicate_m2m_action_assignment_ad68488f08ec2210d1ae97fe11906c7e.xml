@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">7168488fbaec2210bf30e0e9fd3b16ba</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">2d68488fa5ec2210ecb48351b56d5793</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>matmcconkey</sys_created_by>
+        <sys_created_on>2025-04-01 01:39:52</sys_created_on>
+        <sys_id>ad68488f08ec2210d1ae97fe11906c7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AI Prototype" source="x_554092_ai_proto">ece0c48383ec2210922478c6feaad3af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Prototype">ece0c48383ec2210922478c6feaad3af</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_ad68488f08ec2210d1ae97fe11906c7e</sys_update_name>
+        <sys_updated_by>matmcconkey</sys_updated_by>
+        <sys_updated_on>2025-04-01 01:39:52</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

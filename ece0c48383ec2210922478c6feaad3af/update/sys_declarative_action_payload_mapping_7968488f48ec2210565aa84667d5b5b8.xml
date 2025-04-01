@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">3568488f53ec2210a7237b98196a44ba</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <required_translations/>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>matmcconkey</sys_created_by>
+        <sys_created_on>2025-04-01 01:39:54</sys_created_on>
+        <sys_id>7968488f48ec2210565aa84667d5b5b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="AI Prototype" source="x_554092_ai_proto">ece0c48383ec2210922478c6feaad3af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Prototype">ece0c48383ec2210922478c6feaad3af</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_7968488f48ec2210565aa84667d5b5b8</sys_update_name>
+        <sys_updated_by>matmcconkey</sys_updated_by>
+        <sys_updated_on>2025-04-01 01:39:54</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

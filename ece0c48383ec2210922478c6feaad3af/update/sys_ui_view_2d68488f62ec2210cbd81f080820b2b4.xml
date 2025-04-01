@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_approval_x_554092_ai_proto</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>matmcconkey</sys_created_by>
+        <sys_created_on>2025-04-01 01:39:55</sys_created_on>
+        <sys_id>2d68488f62ec2210cbd81f080820b2b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal (x_554092_ai_proto)</sys_name>
+        <sys_package display_value="AI Prototype" source="x_554092_ai_proto">ece0c48383ec2210922478c6feaad3af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Prototype">ece0c48383ec2210922478c6feaad3af</sys_scope>
+        <sys_update_name>sys_ui_view_2d68488f62ec2210cbd81f080820b2b4</sys_update_name>
+        <sys_updated_by>matmcconkey</sys_updated_by>
+        <sys_updated_on>2025-04-01 01:39:55</sys_updated_on>
+        <title>Custom portal (x_554092_ai_proto)</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

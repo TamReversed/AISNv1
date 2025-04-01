@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c00a844383206210922478c6feaad3b5" label="AI Queries" max_length="40" name="x_554092_ai_proto_ai_queries" type="collection">
+        <element label="Answer" max_length="255" name="answer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Question" max_length="255" name="question" type="string"/>
+        <element label="Request" max_length="255" name="request" type="string"/>
+        <element label="Response" max_length="255" name="response" type="string"/>
+        <element label="Status Code" max_length="255" name="status_code" type="string"/>
+    </element>
+</database>

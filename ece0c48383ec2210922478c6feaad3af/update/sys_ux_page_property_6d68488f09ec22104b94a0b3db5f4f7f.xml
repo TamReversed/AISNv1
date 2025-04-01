@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="AI Prototype">2968488f6fec221048b9943b3c7dea6b</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">2968488fd6ec22106457a4696039f6ac</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>matmcconkey</sys_created_by>
+        <sys_created_on>2025-04-01 01:39:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6d68488f09ec22104b94a0b3db5f4f7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="AI Prototype" source="x_554092_ai_proto">ece0c48383ec2210922478c6feaad3af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Prototype">ece0c48383ec2210922478c6feaad3af</sys_scope>
+        <sys_update_name>sys_ux_page_property_6d68488f09ec22104b94a0b3db5f4f7f</sys_update_name>
+        <sys_updated_by>matmcconkey</sys_updated_by>
+        <sys_updated_on>2025-04-01 01:39:56</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_554092_ai_proto.2968488f6fec221048b9943b3c7dea6b.route.chrome_header.2968488fd6ec22106457a4696039f6ac</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d68488f09ec22104b94a0b3db5f4f7f"/>
+</record_update>
